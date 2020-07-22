@@ -1,4 +1,5 @@
 !/bin/sh
+cp /content/torch/main_data_generation2.lua /content/deeper-stacker/Source/DataGeneration/main_data_generation2.lua
 while :
 do
   cd /content/deeper-stacker/Source
